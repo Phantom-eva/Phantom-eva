@@ -1,7 +1,20 @@
-My name is Yilin Li. I have a wide range of interests. I like coding, high tech products, and travel. Also, I play League of Legends, although not very good at it.
+# Hello everyone! I'm Yilin (Michael) Li
 
-You can learn more about me on my personal website and enjoy the pictures I take and the videos I edit.
+## About me
 
-Times are constantly changing, and what I want to do now is to enjoy my life and embrace the future.
+- I mainly focus on computer vision and machine learning.
 
-![4df824ac2380eb74f1c0cccd5a6f6c6](https://user-images.githubusercontent.com/47131826/172285208-747ee29f-43cf-4d0c-be66-931a983d158d.jpg)
+- I'm learning to be a full-stack software engineer.
+
+- I like photography and editing videos.
+
+## Languages | Technologies | Frameworks | Tools
+
+## Github Stats
+<p align=center>
+  <img src="https://github-readme-stats.vercel.app/api?username=Phantom-eva&show_icons=true&theme=vision-friendly-dark">
+</p>
+
+<p align=center>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phantom-eva">
+</p>
