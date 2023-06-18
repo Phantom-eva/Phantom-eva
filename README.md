@@ -10,11 +10,12 @@
 </p>
 
 <h2 align="center">About me</h2>
+
 :telescope: I mainly focus on computer vision and machine learning.
 
-:evergreen_tree:I'm learning to be a full-stack software engineer.
+:evergreen_tree: I'm learning to be a full-stack software engineer.
 
-:grin:I like photography and editing videos.
+:grin: I like photography and editing videos.
 
 <h2 align="center">Languages | Technologies | Frameworks | Tools</h2>
 
