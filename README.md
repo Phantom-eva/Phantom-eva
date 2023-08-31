@@ -45,7 +45,7 @@
 <h2 align="center">GitHub Stats</h2>
 
 <p align=center>
-  <img src="https://http://github-readme-stats-phantom-eva.vercel.app/api?username=Phantom-eva&show_icons=true&theme=vision-friendly-dark">
+  <img src="https://github-readme-stats-phantom-eva.vercel.app/api?username=Phantom-eva&show_icons=true&theme=vision-friendly-dark">
 </p>
 
 <p align=center>
